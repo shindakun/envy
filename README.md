@@ -4,7 +4,7 @@
   <img style="float: right;" src="assets/envy.png" alt="envy gopher"/>
 </p>
 
-A simple package to get environment variables, returns a string or an error.
+A simple package to get environment variables, returns a string or an error. [Go Buffalo](https://github.com/gobuffalo/envy) already had a ENV package named envy it seems. Naming stuff is hard. Oh well.
 
 ## Installation
 

@@ -8,7 +8,7 @@ A simple package to get environment variables, returns a string or an error. [Go
 
 ## Installation
 
-Use `go get github.com/shindakun/envy` to install into Go.
+Use `go get github.com/shindakun/envy` to install into Go or use as a Go module.
 
 ## Usage
 

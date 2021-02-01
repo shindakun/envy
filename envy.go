@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-// Get returns a string from the requested environment var or panics.
+// Get returns a string from the requested environment var or an error.
 func Get(name string) (string, error) {
 	v := os.Getenv(name)
 	if v == "" {

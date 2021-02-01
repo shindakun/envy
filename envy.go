@@ -1,3 +1,7 @@
+/*
+Package envy is for loading ENV variables in Go that's it
+* Get ENV variables
+*/
 package envy
 
 import (
